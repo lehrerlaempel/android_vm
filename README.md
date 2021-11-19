@@ -20,10 +20,12 @@ Außerdem benötigen wir noch das Android, das wir später installieren möchten
 Was wir mit passend meinen?
 
 Wer ein klassisches **Google-Android** möchte, läd sich bitte die neuste Android-x86 Version herunter, die dann z.B. so heißt: *android-x86_64-9.0-r2.iso* 
+
 (Derzeit ein Android 9 mit Sicherheitspatch-Stand August 2018...)
 
 
 Wer hingegen ein **LineageOS** möchte, sucht bitte nach dem neusten CM Release, das dann z.B. so heißt: *cm-x86_64-14.1-r5.iso*
+
 (Derzeit ein Android 7 mit Sicherheispatch-Stand Februar 2021...)
 
 Auch hier nicht vergessen, nach dem Download die Prüfsummen zu vergleichen!
