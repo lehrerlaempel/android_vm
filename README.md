@@ -1,5 +1,5 @@
-# Tutorial: Android in einer virtuelle Maschine (Eine Anleitung)
-v 0.1 | Stand: November 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+# Tutorial: Wie man Android in einer virtuelle Maschine nutzt (Eine Anleitung)
+v 0.2 | Stand: November 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 Weitere Anleitungen von uns findet man [hier](https://lehrerlaempel.github.io/anleitungen/)!
 
@@ -8,10 +8,6 @@ Wir wollen Ihnen hier zeigen, wie Sie auf Ihrem Computer ein funktionierendes An
 
 Wir nutzen für diese Anleitung für die Virtualisierungs-Software [VirtualBox](https://www.virtualbox.org/), als Betriebsystem [Android x86](https://www.android-x86.org/).
 
-# Einschränkungen
-Auf dem hier beschriebenen Weg erhalten Sie derzeit ein [Android 9.0](https://de.wikipedia.org/wiki/Liste_von_Android-Versionen) mit einem Sicherheitspatch-Stand irgendwo Mitte 2018. Wer ein aktuelleres System benötigt, kann an dieser Stelle direkt mit dem Lesen aufhören. 
-
-Wer einen Weg kennt, wie man ein vertrauenswürdiges Android 12 in einer VM stabil zum laufen bringt, der gibt uns bitte ein Zeichen...
 
 # Vorbereitung
 ## Virtual Box
@@ -22,8 +18,13 @@ Linux-Nutzer:innen können in der Regel VirtualBox bequem über den vorhandenen 
 Außerdem benötigen wir noch das Android, das wir später installieren möchten. Wir laden uns also von [hier](https://www.android-x86.org/download.html) die 64bit Version der passenden ISO-Datei herunter. 
 
 Was wir mit passend meinen?
-Wer später ein System inkl. [Google-Dienste]() nutzen möchte, läd sich bitte die neuste Android-x86 Version herunter, die dann z.B. so heißt: *android-x86_64-9.0-r2.iso*
-Wer ein System ohne Google möchte, sucht bitte nach dem neusten CM Release, das dann z.B. so heißt: *cm-x86_64-14.1-r5.iso*
+
+Wer ein klassisches **Google-Android** möchte, läd sich bitte die neuste Android-x86 Version herunter, die dann z.B. so heißt: *android-x86_64-9.0-r2.iso* 
+(Derzeit ein Android 9 mit Sicherheitspatch-Stand August 2018...)
+
+
+Wer hingegen ein **LineageOS** möchte, sucht bitte nach dem neusten CM Release, das dann z.B. so heißt: *cm-x86_64-14.1-r5.iso*
+(Derzeit ein Android 7 mit Sicherheispatch-Stand Februar 2021...)
 
 Auch hier nicht vergessen, nach dem Download die Prüfsummen zu vergleichen!
 
