@@ -1,7 +1,9 @@
 # Tutorial: Wie man Android in einer virtuelle Maschine nutzt (Eine Anleitung)
-v 0.2 | Stand: November 2021 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+v 0.3 | Stand: März 2022 | Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
 
 Weitere Anleitungen von uns findet man [hier](https://lehrerlaempel.github.io/anleitungen/)!
+
+***Achtung: Diese etwas ältere Anleitung funktioniert zwar noch, führt aber zu einem Android ohne aktuelle Sicherheitsupdates. Wer also auf der Suche nach einem System auf dem neusten Stand ist, sollte die Finger hiervon lassen und sich alternativ z.B. [PrimeOS](https://www.primeos.in/) anschauen. Ist zwar inkl. GoogleDienste, dafür aber deutlich aktueller und läuft auch stabil in Virtualbox.***
 
 # Der Plan
 Wir wollen Ihnen hier zeigen, wie Sie auf Ihrem Computer ein funktionierendes Android-Betriebssystem in einer Virtuellen Maschine (VM) installieren und nutzen können. So kann man verschiedene Android-Systeme simulieren, ohne sich tatsächlich diverse Smartphones zulegen zu müssen.
@@ -99,5 +101,6 @@ Hinweise:
 - Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits- und Datenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.
 
 *Dies war eine allgemeinverständliche Zusammenfassung der [Lizenz](https://creativecommons.org/licenses/by-sa/4.0/legalcode.de), die diese nicht ersetzt.*
+
 
 
